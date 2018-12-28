@@ -1,8 +1,6 @@
 package videotutorial03;
 
 import entradaDatos.*;
-import java.io.*;
-
 
 public class Bisiesto {
 

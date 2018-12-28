@@ -10,11 +10,11 @@ public class Campo{
 		this.numeroOlivas=numOlivas;
 	}
 	
-/*	Campo(edadOlivo, numeroOlivas){ // segundo constructor recibe los valores de los objetos
+	Campo(int numOlivas){ // segundo constructor recibe los valores de los objetos
 		this.edadOlivo=30; // los valores son asignados a las variables de instancia.
-		this.numeroOlivas=numeroOlivas;
+		this.numeroOlivas=numOlivas;
 	}
-*/
+
 
 	double beneficio(){ // función calculo beneficio
 		double dinero = numeroOlivas*PVPOLIVA ;

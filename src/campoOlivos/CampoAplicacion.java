@@ -7,7 +7,7 @@ public class CampoAplicacion {
 	
 	public static void main(String[] args) { // función principal
 		Campo olivo1=new Campo(10, 30); // objeto
-		Campo olivo2=new Campo(10, 40); // objeto
+		Campo olivo2=new Campo(40); // objeto
 		
 			System.out.println("La edad del olivo1 es: "+olivo1.edadOlivo);
 
